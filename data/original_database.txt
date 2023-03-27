@@ -1,0 +1,3 @@
+LINK TO OUR DATABASE IN WHICH WE TOOK A SAMPLE OF 3000 SONGS
+
+https://www.kaggle.com/datasets/dhruvildave/spotify-charts?resource=download
